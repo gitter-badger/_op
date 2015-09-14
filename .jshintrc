@@ -1,0 +1,7 @@
+{
+  "undef": false,
+  "esnext": true,
+  "laxbreak": true,
+  "laxcomma": true,
+  "indent": 2
+}

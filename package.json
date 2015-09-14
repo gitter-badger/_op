@@ -1,0 +1,33 @@
+{
+  "name": "oceanpress",
+  "version": "0.0.1",
+  "description": "CMS built on StaticSmith (a Meatalsmith fork), Angular and Material Design",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Robert O'Kennedy",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "moment": "^2.10.6",
+    "staticsmith": "git://github.com/codePile/StaticSmith",
+    "staticsmith-branch": "git://github.com/codePile/StaticSmith-Branch",
+    "staticsmith-collections": "git://github.com/codePile/StaticSmith-Collections",
+    "staticsmith-drafts": "git://github.com/codePile/StaticSmith-Drafts",
+    "staticsmith-excerpts": "git://github.com/codePile/StaticSmith-Excerpts",
+    "staticsmith-feed": "git://github.com/codePile/StaticSmith-Feed",
+    "staticsmith-filemetadata": "git://github.com/codePile/StaticSmith-FileMetaData",
+    "staticsmith-layouts": "git://github.com/codePile/StaticSmith-Layouts",
+    "staticsmith-markdown-remarkable": "git://github.com/codePile/StaticSmith-Remarkable",
+    "staticsmith-permalinks": "git://github.com/codePile/StaticSmith-Permalinks",
+    "staticsmith-remarkable": "^0.1.0",
+    "staticsmith-serve": "git://github.com/codePile/StaticSmith-Serve",
+    "staticsmith-sitemap": "git://github.com/codePile/StaticSmith-Sitemap",
+    "staticsmith-snippet": "git://github.com/codePile/StaticSmith-Snippet",
+    "staticsmith-tags": "git://github.com/codePile/StaticSmith-Tags",
+    "staticsmith-templates": "git://github.com/codePile/StaticSmith-Templates",
+    "staticsmith-watch": "git://github.com/codePile/StaticSmith-Watch",
+    "staticsmith-word-count": "git://github.com/codePile/StaticSmith-WordCount"
+  }
+}
