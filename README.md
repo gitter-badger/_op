@@ -1,5 +1,7 @@
 # OceanPress | _op
 
+[![Join the chat at https://gitter.im/codePile/_op](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codePile/_op?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # **WARNING:** This is a non-functional draft!
 
 [![Build Status](https://travis-ci.org/codePile/_op.svg)](https://travis-ci.org/codePile/_op) 
